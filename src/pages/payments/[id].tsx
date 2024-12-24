@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useMemo, useCallback } from 'react';
 import { useParams } from 'next/navigation';
-import DefaultLayout from '@/components/Layouts/DefaultLayout';
+import DefaultLayout from '@/layouts/DefaultLayout';
 import {
   Box,
   Card,

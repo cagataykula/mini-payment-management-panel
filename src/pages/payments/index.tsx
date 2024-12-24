@@ -1,5 +1,5 @@
 import React from 'react';
-import DefaultLayout from '@/components/Layouts/DefaultLayout';
+import DefaultLayout from '@/layouts/DefaultLayout';
 import { Chip } from '@mui/material';
 import dayjs from 'dayjs';
 import { usePaymentDataContext } from '@/context/PaymentDataContext';

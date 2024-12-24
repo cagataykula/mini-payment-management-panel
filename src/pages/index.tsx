@@ -1,4 +1,4 @@
-import DefaultLayout from '@/components/Layouts/DefaultLayout';
+import DefaultLayout from '@/layouts/DefaultLayout';
 import { Box, Button } from '@mui/material';
 import axios from 'axios';
 import { useRouter } from 'next/router';
